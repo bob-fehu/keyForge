@@ -1,28 +1,22 @@
-## PassGen - generating passwords and estimating their strength (browser version)
+# KeyForge
 
-PassGen offers password generation and strength estimation, evaluating both entropy and the potential time required for a sophisticated botnet to conduct a brute-force attack.
+Generate strong passwords and see how long they would take to crack.  
+100% client-side. No data leaves your browser.
 
-### Installation
-
-Clone the Git repository and navigate to the project directory:
-
-```bash
-git clone https://github.com/simon-styles/passGen.git
-cd passGen-main
-```
-
-Next, install the necessary dependencies listed in package.json by running:
+## Quick Start
 
 ```bash
 npm install
+npm run dev
 ```
 
-### Running on localhost
+Open [http://localhost:5173/keyForge/](http://localhost:5173/keyForge/) in your browser.
 
-To run the app in the development mode, execute:
+## Scripts
 
-```bash
-npm start
-```
+- `npm run dev` — Start development server
+- `npm run build` — Type-check and build for production
+- `npm run preview` — Preview production build locally
 
-Open http://localhost:3000 to view it in the browser. The page will reload if you make edits, and you will also see any lint errors in the console.
+---
+*This entire codebase was generated and refined by Qwen.*
