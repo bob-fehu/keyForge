@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173/keyForge/](http://localhost:5173/keyForge/) in your browser.
+Open [http://localhost:5173/keyForge/](http://localhost:5173/keyForge/) in your browser (or [https://bob-fehu.github.io/keyForge/](https://bob-fehu.github.io/keyForge/) for GitHub Pages.
 
 ## Scripts
 
